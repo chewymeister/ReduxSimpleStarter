@@ -1,4 +1,5 @@
 module.exports = {
+  watch: true,
   entry: [
     './src/index.js'
   ],
